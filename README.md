@@ -1,5 +1,7 @@
 # Taxonomies by FriendsOfFlarum
 
+> Migrated to a new namespace. See https://github.com/flamarkt/taxonomies
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/fof/taxonomies.svg)](https://packagist.org/packages/fof/taxonomies)
 
 Adds custom taxonomies to discussions.
